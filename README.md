@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h1>Welcome my place</h1>
-<hr>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
