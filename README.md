@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 물 흐르듯이 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 언젠가 세상 모든 사람들에게 이로운 개발을 하고 싶습니다.</li><li> 개발은 재밌다.</li><li> 웹과 백엔드 가리지 않습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 언젠가 사람들에게 꼭 필요한 개발을 하고 싶습니다. </li><li> 완벽한 풀스택 개발자를 희망합니다. </li><li> 재밌게 일하고 좋은 결과물을 내놓자  </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
