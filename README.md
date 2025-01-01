@@ -35,8 +35,8 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=MingMing%20DEV&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 물 흐르듯이 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 언젠가 사람들에게 꼭 필요한 개발을 하고 싶습니다. </li><li> 완벽한 풀스택 개발자를 희망합니다. </li><li> 재밌게 일하고 좋은 결과물을 내놓자  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 행복하자 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 언젠가 사람들에게 필요한 개발을 하자 </li><li> 완벽한 풀스택 개발자가 되자 </li><li> 재밌게 일하고 좋은 결과물을 만들자  </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
